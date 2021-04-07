@@ -12,11 +12,13 @@ __Advancement Type:__ Milestone.
 Customizing Your Origin **is** allowed.  
 Custom Lineage will require discussion with the DM.  
 
-In addition to the ones from disallowed sources, the following character race options are not allowed:
-- Gith (MToF)
-- Verdan (AI)
+In addition to the ones from disallowed sources, the following character race options are not allowed:  
 
-The following character race options are especially rare, but not unheard of, in Greyhawk:
+- Gith (MToF)  
+- Verdan (AI)  
+
+The following character race options are especially rare, but not unheard of, in Greyhawk:  
+
 - Aarakocra
 - Aasimar
 - Dragonborn
@@ -24,7 +26,8 @@ The following character race options are especially rare, but not unheard of, in
 - Tabaxi
 - Tiefling
 
-The following character race options are typically, but not always, associated with Iuz:
+The following character race options are typically, but not always, associated with Iuz:  
+
 - Bugbear
 - Goblin
 - Hobgoblin
@@ -214,7 +217,3 @@ Any warlock subclass may be found on Oerth.
 
 
 ## 6. Come Together
-
-### DM Notes
-- After completing the prologue, determine how each character knows the Circle of Eight member that their player chose.
-- One character should know Xovon One-Eye (DVD p85)
