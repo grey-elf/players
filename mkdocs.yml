@@ -1,2 +1,8 @@
 site_name: Players
+site_url: https://grey-elf.net/players
 theme: cinder
+nav:
+- Setting: setting.md
+- character-creation.md
+markdown_extensions:
+- admonition
